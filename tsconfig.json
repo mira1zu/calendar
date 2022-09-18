@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    ".eslintrc.js",
+    "src/*.js",
+    "src/*.jsx",
+    "src/*.ts",
+    "src/*.tsx"
+  ]
+}
